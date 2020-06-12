@@ -9,7 +9,7 @@ namespace Darkness
         public string URL;
         public void LoadDefaults()
         {
-            URL = "https://plugins.darknesscommunity.club/vpn-api.php?ip=";
+            URL = "https://darknesscommunity.club/anti-vpn/anti-vpn.php?ip=";
         }
     }
 }
