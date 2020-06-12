@@ -19,8 +19,6 @@ namespace Darkness
 
                 string jsonReader1 = @"{""status"":""success"",""result"":""1"",""queryIP"":""" + player.IP + @""",""queryFlags"":""m"",""queryOFlags"":null,""queryFormat"":""json"",""contact"":""themachinehack@gmail.com""}";
 
-                string jsonReader2 = @"{""status"":""success"",""result"":""1"",""queryIP"":""" + player.IP + @""",""queryFlags"":""m"",""queryOFlags"":null,""queryFormat"":""json"",""contact"":""themachinehack@gmail.com""}";
-
                 var result = web.DownloadString(AntiVPN.Instance.Configuration.Instance.URL + player.IP);
 
                 if (result.Equals(jsonReader1))
