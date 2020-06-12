@@ -1,0 +1,71 @@
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\[darkness] AntiVPN.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\[darkness] AntiVPN.pdb
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Assembly-CSharp-firstpass.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Assembly-CSharp.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Rocket.API.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Rocket.Core.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Rocket.Unturned.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.CoreModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.PhysicsModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.TextRenderingModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.IMGUIModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.AnimationModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UI.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.AudioModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.AssetBundleModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.TerrainModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.VehiclesModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.ParticleSystemModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.WindModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Newtonsoft.Json.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Unity.Postprocessing.Runtime.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UIModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Pathfinding.JsonFx.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Pathfinding.ClipperLib.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\Pathfinding.Poly2Tri.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.ImageConversionModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.JSONSerializeModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.Physics2DModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.CrashLog.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.VRModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.SharedInternalsModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.ClothModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.AccessibilityModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.AIModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.ClusterInputModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.ClusterRendererModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.DirectorModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.GridModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.LocalizationModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.SpriteMaskModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.SpriteShapeModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.StreamingModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.StyleSheetsModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.TilemapModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UnityConnectModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.VFXModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.VideoModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UNETModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.GameCenterModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.InputModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.TextCoreModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UIElementsModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.XRModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.ARModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.CrashReportingModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\obj\Debug\[darkness] IP Restrict.csprojAssemblyReference.cache
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\obj\Debug\[darkness] IP Restrict.csproj.CoreCompileInputs.cache
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\obj\Debug\[darkness] IP Restrict.csproj.CopyComplete
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\obj\Debug\[darkness] AntiVPN.dll
+J:\Todo\Informática\C# Sources\[darkness] anti vpn\Anti-VPN\Anti-VPN\obj\Debug\[darkness] AntiVPN.pdb
